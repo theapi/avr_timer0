@@ -31,7 +31,7 @@ void initialize(void); //all the usual mcu stuff
 Global Variables
 ********************************************************************************/
 
-volatile unsigned long time1;
+volatile unsigned int time1;
 
 
 /********************************************************************************
